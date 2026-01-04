@@ -1,4 +1,4 @@
-[⬅️ Volver al índice de proyectos](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA)
+[⬅️ Volver a "Diseño de PCB"](https://github.com/SantiagoBaeza/Dise-o-de-PCBs-KiCad-/tree/main)
 
 # Regulador de voltaje con LM317 – Diseño de PCB en KiCad
 

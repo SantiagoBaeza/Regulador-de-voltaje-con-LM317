@@ -11,7 +11,7 @@ El objetivo es aplicar el flujo completo de trabajo en **KiCad 9.0.2**, desde el
 
 | Esquemático inicial | Selección del regulador LM317 | Selección de diodo genérico | Esquema final |
 |---------------------|-------------------------------|-----------------------------|----------------|
-| ![01 captura regulador de voltaje](ruta/a/01-captura.jpg) | ![02 LM317_TO-252](ruta/a/02-captura.jpg) | ![03 Selección diodo](ruta/a/03-captura.jpg) | ![04 esquema listo](ruta/a/04-captura.jpg) |
+| ![01 captura regulador de voltaje](https://github.com/SantiagoBaeza/Regulador-de-voltaje-con-LM317/blob/main/01%20captura%20regulador%20de%20voltaje%20con%20proteccion%20de%20diodo%20.jpg) | ![02 LM317_TO-252](https://github.com/SantiagoBaeza/Regulador-de-voltaje-con-LM317/blob/main/02%20captura%20LM317_TO-252.jpg) | ![03 Selección diodo](https://github.com/SantiagoBaeza/Regulador-de-voltaje-con-LM317/blob/main/03%20captura%20Seleccion%20diodo%20generico.jpg) | ![04 esquema listo](https://github.com/SantiagoBaeza/Regulador-de-voltaje-con-LM317/blob/main/04%20captura%20esquema%20listo.jpg) |
 
 > 🔧 Reemplazá `ruta/a/...` por la ruta real de tus imágenes en el repositorio.
 
